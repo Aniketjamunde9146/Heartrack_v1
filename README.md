@@ -1,16 +1,47 @@
-# heartrack_v1
+# 📍 HearTrack
 
-A new Flutter project.
+HearTrack is a **real-time location sharing mobile application** built using **Flutter**.  
+The app allows two users to securely connect using a **pair code** and share their **live location** on a map.
 
-## Getting Started
+The focus of HearTrack is **simplicity, privacy, and real-time tracking**.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🚀 Smooth splash screen
+- 🔐 Firebase Authentication
+- 🔗 Pair users using a unique pair code
+- 🗺️ Real-time location tracking
+- 📍 View your location and partner’s location
+- 📏 Distance between paired users
+- 🧭 Start navigation using Google Maps
+- 🟢 Active / Inactive user status
+- 🔒 Secure & private pairing system
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter**
+- **Dart**
+- **Firebase Authentication**
+- **Cloud Firestore**
+- **Google Maps API**
+- **Geolocator**
+- **Firebase Core**
+
+---
+
+## 📱 App Screens
+
+- Splash Screen  
+- Login / Signup Screen  
+- Pair Code Screen  
+- Pair Request Screen  
+- Home Screen (Live Map View)
+
+---
+
+## 📂 Project Structure
+

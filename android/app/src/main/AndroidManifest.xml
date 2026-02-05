@@ -30,7 +30,7 @@
         <!-- 🔑 GOOGLE MAPS API KEY -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBhWjcbmCqaeR5gyOP-hDCYTErf9ijR-Fw" />
+            android:value="ENTER_YOU_GOOGLE_MAPS_KEY_HERE" />
 
         <!-- Flutter Main Activity -->
         <activity
